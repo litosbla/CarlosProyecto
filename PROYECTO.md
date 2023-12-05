@@ -1,10 +1,11 @@
 # MODELO RELACIONAL
 
-<image src="./project_initial_r.png" alt="modelo relacional inicial">
+<image src="./relacional.png" alt="">
 
 # MODELO ENTIDAD RELACION
 
-<image src="./project_initial_er.png" alt="modelo entidad relacion incial">
+<image src="./draw_modificado.png" alt="">
+
 
 # MODIFICACIONES
 **Desde el inciso 1 hasta el inciso 3**
